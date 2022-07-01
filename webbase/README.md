@@ -1,3 +1,3 @@
 # WEBBASE
 
-**Webbase** contains the code for django web application for testing the project.
+**Webbase** contains the code for django web application.
