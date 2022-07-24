@@ -3,7 +3,7 @@ import Header from "./compnonents/header/header";
 import Footer from "./compnonents/footer/footer";
 import CustomButton from "./compnonents/reusable-components/CustomButton";
 
-function App() {
+function Home() {
   const backgroundImageStyle = {
     backgroundImage: `url("${handyScopeImage}")`,
     backgroundSize: "cover",
@@ -67,4 +67,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;

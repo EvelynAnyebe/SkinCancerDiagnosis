@@ -1,4 +1,5 @@
 import React from "react";
+import CustomButton from "../reusable-components/CustomButton";
 const Header = () => {
   return (
     <div className="w-100 h-20 flex items-center justify-between px-5">
@@ -7,8 +8,8 @@ const Header = () => {
       </div>
       <nav>
         <ul>
-          <li>
-            <button>Login</button>
+          <li className="text-white">
+            <CustomButton text={"Login"} />
           </li>
         </ul>
       </nav>
