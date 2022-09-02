@@ -9,3 +9,5 @@ machinelearning/jpeg
 *.tar
 *.zip
 
+/machinelearning/meta-csv
+machinelearning/MSc_Project_2615331_supporting_urls.docx
